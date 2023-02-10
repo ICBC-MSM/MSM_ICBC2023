@@ -64,7 +64,7 @@ xx (10 <= xx <= 22)
 </code>
 in the line 
 <pre><code> 
-#include "ches_config_files/config_files.h" 
+#include "config_files/config_file_n_exp_xx.h" 
 </code></pre> 
 to run the code for different number of points
 <code> 
